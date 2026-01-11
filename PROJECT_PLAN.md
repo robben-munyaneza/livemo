@@ -1,8 +1,9 @@
 # 🐄 AI-Powered Livestock Health Monitor - Complete Project Plan
 
-**Project:** Smart wearable device that detects illness and stress in cattle using AI  
+**Project:** AI-powered livestock health monitoring platform with dual-portal dashboard  
 **Target Market:** African livestock farmers (430M cattle addressable market)  
-**Innovation:** TinyML-powered, offline, low-cost ($20-25 production cost)
+**Innovation:** Centralized vision-based monitoring + IoT sensors, low-cost ($10-15 per animal)  
+**Architecture:** Backend API + Dual-portal dashboard (Admin + Farmer) + Public marketplace
 
 ---
 
@@ -12,7 +13,7 @@
 - **Market Size:** $4-5B/year in Africa alone
 - **Problem:** 20% livestock productivity lost to preventable diseases
 - **Solution:** Real-time AI health monitoring at 1/10th the cost of Western solutions
-- **Competitive Advantage:** Offline AI, $50-75 price point vs $100-200 competitors
+- **Competitive Advantage:** Centralized monitoring stations, $10-15 per animal vs $100-200 wearables
 
 ### Revenue Potential
 | Market Share | Animals | Annual Revenue |
